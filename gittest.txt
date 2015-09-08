@@ -1,4 +1,0 @@
-rad1
-rad2
-rad3
-rad4
